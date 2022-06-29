@@ -1,3 +1,3 @@
-# Custom Hoooks
+# Custom Hooks
 
 Custom Hooks Repository

@@ -1,3 +1,3 @@
 # Custom Hooks
 
-Custom Hooks Repository
+React custom hooks in JavaScript
